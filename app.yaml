@@ -6,3 +6,4 @@ application: sbinet-xyz-bibtek
 handlers:
 - url: /.*
   script: _go_app
+  login: required
